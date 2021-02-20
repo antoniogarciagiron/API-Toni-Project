@@ -18,7 +18,7 @@ def celebrities_new():
 
 
     if not check_groups(args,"army",["Rebellion", "Empire", "Bounty hunters"]):
-        return {"Error":"You have to chose between Rebellion and Empire"}
+        return {"Error":"You have to chose between Rebellion, Empire and Bounty hunters"}
     if not check_groups(args,"movie",["A New Hope", "The Empire Strikes Back", "Return of the Jedi"]):
         return {"Error":"Not a Star Wars Movie"}
 
@@ -41,7 +41,7 @@ def all_quotes():
 def quotes_by_army(army):
     q = {"army":army}
     if not check_groups(q,"army",["Rebellion", "Empire", "Bounty hunters"]):
-        return {"Error":"You have to chose between Rebellion and Empire"}
+        return {"Error":"You have to chose between Rebellion, Empire and Bounty hunters"}
     data = read(q, project={"name":1, "quote":1, "_id":0})
     return json_util.dumps(data)
 
