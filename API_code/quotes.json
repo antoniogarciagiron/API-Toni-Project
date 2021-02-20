@@ -1,0 +1,377 @@
+[{
+  "_id": {
+    "$oid": "6030cea4bc91daf25e3e4713"
+  },
+  "name": "Princess Leia",
+  "army": "Rebellion",
+  "movie": "A New Hope",
+  "quote": "Aren't you a little short for a stormtrooper?"
+},{
+  "_id": {
+    "$oid": "6030d11bbc91daf25e3e4714"
+  },
+  "name": "Obi-Wan Kenobi",
+  "army": "Rebellion",
+  "movie": "A New Hope",
+  "quote": "These aren't the droids you're looking for"
+},{
+  "_id": {
+    "$oid": "6030d12bbc91daf25e3e4715"
+  },
+  "name": "Obi-Wan Kenobi",
+  "army": "Rebellion",
+  "movie": "A New Hope",
+  "quote": "They'll soon be back, and in greater numbers"
+},{
+  "_id": {
+    "$oid": "6030d295bc91daf25e3e4716"
+  },
+  "name": "Luke Skywalker",
+  "army": "Rebellion",
+  "movie": "Return of the Jedi",
+  "quote": "Your Thoughts betray you father"
+},{
+  "_id": {
+    "$oid": "6030e4b467b8a66d902d5c74"
+  },
+  "name": "Darth Vader",
+  "army": "Empire",
+  "movie": "Return of the Jedi",
+  "quote": "Obi-Wan has taught you well"
+},{
+  "_id": {
+    "$oid": "6030fe40e9bb5427fe5098f3"
+  },
+  "name": "Emperor Palpatine",
+  "army": "Empire",
+  "movie": "Return of the Jedi",
+  "quote": "It is of no concern. Soon the rebellion will be crushed and young Skywalker will be one of us"
+},{
+  "_id": {
+    "$oid": "6030ff3c02da0528debb3bc1"
+  },
+  "name": "Jabba the Hutt",
+  "army": "Bounty hunters",
+  "movie": "Return of the Jedi",
+  "quote": "Bring me Solo and the Wookiee. They will all suffer for this outrage"
+},{
+  "_id": {
+    "$oid": "6030ff7402da0528debb3bc2"
+  },
+  "name": "Jabba the Hutt",
+  "army": "Bounty hunters",
+  "movie": "Return of the Jedi",
+  "quote": "You may have been a good smuggler, but now you're Bantha fodder"
+},{
+  "_id": {
+    "$oid": "6030ffb602da0528debb3bc3"
+  },
+  "name": "Admiral Ackbar",
+  "army": "Rebellion",
+  "movie": "Return of the Jedi",
+  "quote": "It's a trap!!!"
+},{
+  "_id": {
+    "$oid": "6030ffdb02da0528debb3bc4"
+  },
+  "name": "Emperor Palpatine",
+  "army": "Empire",
+  "movie": "Return of the Jedi",
+  "quote": "So be it, Jedi"
+},{
+  "_id": {
+    "$oid": "6030ffe802da0528debb3bc5"
+  },
+  "name": "Emperor Palpatine",
+  "army": "Empire",
+  "movie": "Return of the Jedi",
+  "quote": "And now, young Skywalker...you will die"
+},{
+  "_id": {
+    "$oid": "6031002702da0528debb3bc6"
+  },
+  "name": "Emperor Palpatine",
+  "army": "Empire",
+  "movie": "Return of the Jedi",
+  "quote": "Strike me down with all of your hatred and your journey towards the dark side will be complete!"
+},{
+  "_id": {
+    "$oid": "6031008302da0528debb3bc7"
+  },
+  "name": "Darth Vader",
+  "army": "Empire",
+  "movie": "Return of the Jedi",
+  "quote": "So, you have a twin sister. Your feelings have now betrayed her too. Obi-Wan was wise to hide her from me. Now his failure is complete. If you will not turn to the Dark Side, then perhaps she will"
+},{
+  "_id": {
+    "$oid": "603100af02da0528debb3bc8"
+  },
+  "name": "Darth Vader",
+  "army": "Empire",
+  "movie": "Return of the Jedi",
+  "quote": "NOOOOOOOOOO!!!"
+},{
+  "_id": {
+    "$oid": "603100d202da0528debb3bc9"
+  },
+  "name": "Luke Skywalker",
+  "army": "Rebellion",
+  "movie": "Return of the Jedi",
+  "quote": "I am a Jedi, like my father before me"
+},{
+  "_id": {
+    "$oid": "603100ea02da0528debb3bca"
+  },
+  "name": "Luke Skywalker",
+  "army": "Rebellion",
+  "movie": "Return of the Jedi",
+  "quote": "Jabba, this is your last chance. Free us... or die!"
+},{
+  "_id": {
+    "$oid": "6031011402da0528debb3bcb"
+  },
+  "name": "Yoda",
+  "army": "Rebellion",
+  "movie": "Return of the Jedi",
+  "quote": "When 900 year old you reach, look as good you will not"
+},{
+  "_id": {
+    "$oid": "6031018b02da0528debb3bcc"
+  },
+  "name": "Princess Leia",
+  "army": "Rebellion",
+  "movie": "Return of the Jedi",
+  "quote": "We have Powerful friends, you will regret this"
+},{
+  "_id": {
+    "$oid": "603101c402da0528debb3bcd"
+  },
+  "name": "Obi-Wan Kenobi",
+  "army": "Rebellion",
+  "movie": "A New Hope",
+  "quote": "Use the Force, Luke"
+},{
+  "_id": {
+    "$oid": "603101e802da0528debb3bce"
+  },
+  "name": "Obi-Wan Kenobi",
+  "army": "Rebellion",
+  "movie": "A New Hope",
+  "quote": "That's no moon"
+},{
+  "_id": {
+    "$oid": "603101f802da0528debb3bcf"
+  },
+  "name": "Obi-Wan Kenobi",
+  "army": "Rebellion",
+  "movie": "A New Hope",
+  "quote": "If you strike me down, I shall become more powerful than you could possibly imagine"
+},{
+  "_id": {
+    "$oid": "6031023b02da0528debb3bd0"
+  },
+  "name": "Obi-Wan Kenobi",
+  "army": "Rebellion",
+  "movie": "A New Hope",
+  "quote": "Who is more foolish? The fool or the fool who follows him?"
+},{
+  "_id": {
+    "$oid": "6031025402da0528debb3bd1"
+  },
+  "name": "Obi-Wan Kenobi",
+  "army": "Rebellion",
+  "movie": "A New Hope",
+  "quote": "The Force will be with you. Always"
+},{
+  "_id": {
+    "$oid": "6031026f02da0528debb3bd2"
+  },
+  "name": "Princess Leia",
+  "army": "Rebellion",
+  "movie": "A New Hope",
+  "quote": "Help me, Obi-Wan Kenobi. You're my only hope"
+},{
+  "_id": {
+    "$oid": "6031029802da0528debb3bd3"
+  },
+  "name": "Princess Leia",
+  "army": "Rebellion",
+  "movie": "A New Hope",
+  "quote": "Somebody get this walking carpet out of my way!"
+},{
+  "_id": {
+    "$oid": "603102be02da0528debb3bd4"
+  },
+  "name": "Princess Leia",
+  "army": "Rebellion",
+  "movie": "A New Hope",
+  "quote": "Why you stuck up, half witted, scruffy looking nerf herder!"
+},{
+  "_id": {
+    "$oid": "603102e802da0528debb3bd5"
+  },
+  "name": "C-3PO",
+  "army": "Rebellion",
+  "movie": "A New Hope",
+  "quote": "Don't you get technical with me!"
+},{
+  "_id": {
+    "$oid": "6031031202da0528debb3bd6"
+  },
+  "name": "C-3PO",
+  "army": "Rebellion",
+  "movie": "A New Hope",
+  "quote": "I see your point, sir. I suggest a new strategy, R2, let the Wookiee win"
+},{
+  "_id": {
+    "$oid": "6031033502da0528debb3bd7"
+  },
+  "name": "Han Solo",
+  "army": "Rebellion",
+  "movie": "A New Hope",
+  "quote": "Great, Kid! Just, don't get cocky!"
+},{
+  "_id": {
+    "$oid": "6031036302da0528debb3bd8"
+  },
+  "name": "Han Solo",
+  "army": "Rebellion",
+  "movie": "A New Hope",
+  "quote": "You're all clear kid, now let's blow this thing and go home!"
+},{
+  "_id": {
+    "$oid": "603103b102da0528debb3bd9"
+  },
+  "name": "Darth Vader",
+  "army": "Empire",
+  "movie": "A New Hope",
+  "quote": "The circle is now complete. When I left you, I was but the learner. Now I am the master"
+},{
+  "_id": {
+    "$oid": "603103cc02da0528debb3bda"
+  },
+  "name": "Darth Vader",
+  "army": "Empire",
+  "movie": "A New Hope",
+  "quote": "Your powers are weak, old man. You should not have come back"
+},{
+  "_id": {
+    "$oid": "603103dd02da0528debb3bdb"
+  },
+  "name": "Darth Vader",
+  "army": "Empire",
+  "movie": "A New Hope",
+  "quote": "Don't get too proud of this technological terror you've constructed. The ability to destroy a planet is insignificant next to the power of the force"
+},{
+  "_id": {
+    "$oid": "603103ec02da0528debb3bdc"
+  },
+  "name": "Darth Vader",
+  "army": "Empire",
+  "movie": "A New Hope",
+  "quote": "Your lack of faith disturbs me"
+},{
+  "_id": {
+    "$oid": "6031043502da0528debb3bdd"
+  },
+  "name": "Darth Vader",
+  "army": "Empire",
+  "movie": "The Empire Strikes Back",
+  "quote": " You are beaten! It is useless to resist. Don't let yourself be destroyed as Obi-Wan did"
+},{
+  "_id": {
+    "$oid": "6031045d02da0528debb3bde"
+  },
+  "name": "Darth Vader",
+  "army": "Empire",
+  "movie": "The Empire Strikes Back",
+  "quote": "Impressive... most impressive"
+},{
+  "_id": {
+    "$oid": "6031047502da0528debb3bdf"
+  },
+  "name": "Darth Vader",
+  "army": "Empire",
+  "movie": "The Empire Strikes Back",
+  "quote": "No, I am your father"
+},{
+  "_id": {
+    "$oid": "603104a302da0528debb3be0"
+  },
+  "name": "Darth Vader",
+  "army": "Empire",
+  "movie": "The Empire Strikes Back",
+  "quote": "I am altering the deal. Pray I don't alter it any further"
+},{
+  "_id": {
+    "$oid": "603104e402da0528debb3be1"
+  },
+  "name": "Darth Vader",
+  "army": "Empire",
+  "movie": "The Empire Strikes Back",
+  "quote": "Luke, you can destroy the Emperor. He has foreseen this. It is your destiny! Join me, and together, we can rule the galaxy as father and son!"
+},{
+  "_id": {
+    "$oid": "6031052e02da0528debb3be2"
+  },
+  "name": "Princess Leia",
+  "army": "Rebellion",
+  "movie": "The Empire Strikes Back",
+  "quote": "I'd just as soon kiss a wookie!"
+},{
+  "_id": {
+    "$oid": "6031055d02da0528debb3be3"
+  },
+  "name": "Yoda",
+  "army": "Rebellion",
+  "movie": "The Empire Strikes Back",
+  "quote": "Do. Or do not. There is no try"
+},{
+  "_id": {
+    "$oid": "6031057e02da0528debb3be4"
+  },
+  "name": "Yoda",
+  "army": "Rebellion",
+  "movie": "The Empire Strikes Back",
+  "quote": "Ohhh. Great warrior... Wars not make one great"
+},{
+  "_id": {
+    "$oid": "603105be02da0528debb3be5"
+  },
+  "name": "Luke Skywalker",
+  "army": "Rebellion",
+  "movie": "The Empire Strikes Back",
+  "quote": "I'm not afraid"
+},{
+  "_id": {
+    "$oid": "6031060002da0528debb3be6"
+  },
+  "name": "Han Solo",
+  "army": "Rebellion",
+  "movie": "The Empire Strikes Back",
+  "quote": "Never tell me the odds!"
+},{
+  "_id": {
+    "$oid": "6031061d02da0528debb3be7"
+  },
+  "name": "Han Solo",
+  "army": "Rebellion",
+  "movie": "The Empire Strikes Back",
+  "quote": "Laugh it up, fuzz ball"
+},{
+  "_id": {
+    "$oid": "6031063302da0528debb3be8"
+  },
+  "name": "Han Solo",
+  "army": "Rebellion",
+  "movie": "The Empire Strikes Back",
+  "quote": "And I thought they smelled bad... on the outside"
+},{
+  "_id": {
+    "$oid": "6031066602da0528debb3be9"
+  },
+  "name": "Boba Fett",
+  "army": "Bounty hunters",
+  "movie": "The Empire Strikes Back",
+  "quote": "He's no good to me dead"
+}]
