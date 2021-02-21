@@ -39,12 +39,14 @@ The project is composed by the next files:
 - mongoConnection.py: contains the necessary code to connect with with the Mongo Database and the queries to call and store information.
 - checking.py: contains the functions used to check if the information you are trying to store in the Database or to call from it is in the right format.
 - api.py: connects the API and provides the endpoints' functions.
+- api-tests.ipynb: is a Jupyter Notebook file done to check if the API works, if you can add and read information.
+- quotes.csv and quotes.json: files exported from MongoDB Compass, in case somebody wants to have the list I've used and test the API with them.
 
 
 ## Endpoints:
 - /salute: to test the API, returns "May the Force be with you".
 - /quotes/new: to add a new quote.
 - /quotes/all: returns the json with all the quotes.
-- /quotesbyarmy/<army>: 
-
-
+- /quotesbyarmy/army: returns the json with all the quotes for the chosen army, if the army is valid.
+- /quotesbycharacter/character: returns the json with all the quotes for the chosen character, if the charactger is in the Database.
+- /quotesbymovie/movie: returns the json with all the quotes for the selected movie, if the movie is valid.
