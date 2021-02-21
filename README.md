@@ -5,13 +5,13 @@
 
 ## Introduction:
 
-This is one of the projects done during the [IronHack](https://www.ironhack.com/en) Data Analytics bootcamp. 
-It is an API to add quotes from the Star Wars first trilogy, store them in a Mongo Database and call them later.
+This is one of the projects done during the [IronHack](https://www.ironhack.com/en) Data Analytics bootcamp. It is an API to add quotes from the Star Wars first trilogy, store them in a Mongo Database and call them later.
 
 
 ## Objectives:
 
 The objective of the project was to create an API to store conversations or sentences (In my case, Star Wars quotes) sorted by groups. The API had to be able to connect with a database, send information to be stored and call the information later. 
+
 It was required to store information from different groups, for example, sentences from different Whatsapp groups, in order to be able to call the information later and filter it by groups, person... In this case, I decided to add quotes from the Star Wars movies(Because The Empire Strikes Back is my favourite movie ever), in such a way that the groups are each of the 3 original movies (A New Hope, The Empire Strikes Back or Return of the Jedi) and the character affiliation (If they fight for the Rebels, the Empire or the character is a Bounty hunter).
 
 
@@ -23,8 +23,11 @@ The information is stored in a Mongo Database with a single collection. At the s
 - Quote, where te sentence is stored
 - Army, the affiliation of the character
 - Movie where the quote is said
+
 The last two fields are used as tags to sort the quotes by groups.
+
 The StarWars quotes were found in [RottenTomatoes](https://www.rottentomatoes.com/).
+
 The following Python libraries were used:
 - helpers.checking
 - helpers.mongoConnection
